@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevanshXshukla
-- 👀 I’m interested in Computer Programming , Discrete mathematics and Higher Physics
-- 🌱 I’m currently learning Artificial Intelligence and Computer Vision
-- 💞️ I’m looking to collaborate on a few basic projects pertaining the skill sets of python
+-  I’m interested in Computer Programming ,Artificial Intelligence & Machine Learning, Discrete mathematics and Higher Physics.
+- 🌱 I’m currently building projects in deep learning and image processing.
+-  I’m looking to collaborate on a few projects pertaining a similar skill set.
 - 📫 How to reach me : linkedin : https://www.linkedin.com/in/devanshshukla
 
 <!---
